@@ -7,7 +7,7 @@ Meu início em programação orientada a objeto (POO).
 - **Classes** é um modelo, molde, uma planta de um prédio. 
 - O **objeto** é sua instância (concretização do molde).
 
-![Classe e objeto](#1-classes-e-objetos)
+![Classe e objeto](POO/img/Classe.png)
 
 Os objetos tem **atributos** e **métodos**.
 

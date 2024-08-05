@@ -7,14 +7,14 @@ Meu início em programação orientada a objeto (POO).
 - **Classes** é um modelo, molde, uma planta de um prédio. 
 - O **objeto** é sua instância (concretização do molde).
 
-![Logo do projeto](img/Classe.png)
+![Classe e objeto](#1-classes-e-objetos)
 
 Os objetos tem **atributos** e **métodos**.
 
 - **Atributo**: cor da casa, tamanho, quantas janelas e etc.
 - **Métodos**: comportamentos, ações. 
 
-Uma classe pode ter vários objetos. Pense na classe Casa, cada casa construída em cada esquina, rua e bairro é um objeto que vem da mesma classe, mas com suas peculiares diferentes.
+Uma classe pode ter vários objetos. Pense na classe Casa: cada casa construída em cada esquina, rua e bairro é um objeto que vem da mesma classe, mas com suas peculiaridades diferentes.
 
 ### Encapsulamento: 
 

@@ -38,13 +38,11 @@ public class AulaClassesObjetos {
         }
 
         public void imprimirInfo(){
-            System.out.println("Cor: " + cor + " | " + "Quantidade de andares: " + andares + " Quantidade de janelas: " + janelas);
+            System.out.println("Cor: " + cor + " | " + "Quantidade de andares: " + andares + " | " + "Quantidade de janelas: " + janelas);
         }
     }    
     public static void main(String[] args) {
 
-        
-        
         Predio predio1 = new Predio("Amarelo", 10, 20);
 
         predio1.imprimirInfo();
